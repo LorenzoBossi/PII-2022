@@ -11,24 +11,16 @@ During the last semester we:
 * Developed the neural network with *Vitis HLS*;
 * Applied different *Vitis* pragmas;
 * Implement our final solution
+* 
 ## Group
 - ###   Federico Mandelli ()
 - ###   Lorenzo Bossi ([@LorenzoBossi](https://github.com/LorenzoBossi))
 
-<!--
-## Used Tools
 
-| Functionality    |                       State                        |
-|:-----------------|:--------------------------------------------------:|
-| Python     \     | 🟢 |
-| Complete rules   | 🟢 |
-| Socket           | 🟢 |
-| GUI              | 🟡 |
-| CLI              | 🟡 |
-| 12 Characters    | 🟢 |
-| 4 Players games  | 🔴  |
-| Multiple games   | 🟢 |
-| Persistence      | 🔴  |
-| Resilience       | 🔴  |
+## Used tools and languages
+* Python
+* Tensorflow
+* Keras
+* C/C++
+* Vitis HLS
 
--->
