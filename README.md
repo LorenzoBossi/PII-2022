@@ -10,8 +10,8 @@ During the last semester we:
 * Revisited the code to make it more "HLS friendly";
 * Developed the neural network with *Vitis HLS*;
 * Applied different *Vitis* pragmas;
-* Implement our final solution
-* 
+* Evalute pragma effect on performances
+
 ## Group
 - ###   Federico Mandelli ()
 - ###   Lorenzo Bossi ([@LorenzoBossi](https://github.com/LorenzoBossi))
