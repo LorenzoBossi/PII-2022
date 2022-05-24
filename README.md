@@ -1,4 +1,4 @@
-# Hardware acceleration of a convolutional neural network with *Vitis HLS*
+# Hardware acceleration of a convolutional neural network using *Vitis HLS*
 
 
 ## Project
