@@ -13,7 +13,7 @@ During the last semester we:
 * Evalute pragma effect on performances
 
 ## Group
-- ###   Federico Mandelli ()
+- ###   Federico Mandelli ([@FedericoMandelli](https://github.com/federico-mandelli))
 - ###   Lorenzo Bossi ([@LorenzoBossi](https://github.com/LorenzoBossi))
 
 
