@@ -17,6 +17,10 @@ During the last semester we:
 - ###   Lorenzo Bossi ([@LorenzoBossi](https://github.com/LorenzoBossi))
 
 
+## How to run this project
+* To run the C implementation extract the folder, after you installed gcc compile the code with "gcc mainc.c -lm -o exe" and then run the code with "./exe";
+* To run the Vitis code install vitis 2021.2, create a new project and add all the file to the project, after that you can test the code.
+
 ## Used tools and languages
 * Python
 * Tensorflow
